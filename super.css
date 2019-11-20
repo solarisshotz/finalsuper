@@ -105,10 +105,6 @@ body {
      }
 }
 
-.pulsing {
-	animation: shadow-pulse 1s infinite;
-}
-
 .pulse:hover {
 	animation: pulse 2s infinite;
 }
